@@ -1,0 +1,27 @@
+{
+  "name": "athena-audio",
+  "version": "1.0.3",
+  "authors": [
+    "Carlos Araya <carlos.araya@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "athena-audio.html",
+  "license": "http://caraya.mit-license.org/",
+  "homepage": "",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
