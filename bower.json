@@ -1,10 +1,10 @@
 {
   "name": "athena-audio",
-  "version": "1.0.3",
+  "version": "0.1.0",
   "authors": [
     "Carlos Araya <carlos.araya@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Create aduio elements using polymer.",
   "keywords": [
     "web-component",
     "polymer",
@@ -12,7 +12,7 @@
   ],
   "main": "athena-audio.html",
   "license": "http://caraya.mit-license.org/",
-  "homepage": "",
+  "homepage": "http://caraya.github.io/athena-audio/",
   "ignore": [
     "/.*",
     "/test/"
